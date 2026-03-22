@@ -1,0 +1,9 @@
+{
+  "name": "open-agent-architectures",
+  "version": "1.0.0",
+  "description": "Community-contributed AI agent architecture articles for OpenHarness",
+  "scripts": {
+    "validate": "node scripts/validate.mjs"
+  },
+  "license": "CC-BY-4.0"
+}
